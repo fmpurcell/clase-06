@@ -11,6 +11,7 @@ select {
     position: absolute;
     right: 3%;
     top: 4%;
+    z-index:99999999;
 }
 
 canvas {
